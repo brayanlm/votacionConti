@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "490392334899",
+    "project_id": "votacion-delegado-uc",
+    "storage_bucket": "votacion-delegado-uc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490392334899:android:4125b72ab6732f2e0ee946",
+        "android_client_info": {
+          "package_name": "com.example.votacion_delegado_ec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490392334899-9vfssnbvmt51p44ci8ob7jnoj7fue931.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.votacion_delegado_ec",
+            "certificate_hash": "08c617cb94f380866b90e2cae90c2f6c17991c98"
+          }
+        },
+        {
+          "client_id": "490392334899-dc2a5rmfe3f6v89mpnkdclp08q6i45g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD31OZNrKxSwwQXEN72Gmg68wCZIu2KyII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490392334899-dc2a5rmfe3f6v89mpnkdclp08q6i45g8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490392334899-opdaajcq8qadsueommhf34vnavba2b12.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.votacionDelegadoEc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490392334899:android:a3728f4681414d2d0ee946",
+        "android_client_info": {
+          "package_name": "com.uc.votaciondelegadouc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490392334899-dc2a5rmfe3f6v89mpnkdclp08q6i45g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD31OZNrKxSwwQXEN72Gmg68wCZIu2KyII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490392334899-dc2a5rmfe3f6v89mpnkdclp08q6i45g8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490392334899-opdaajcq8qadsueommhf34vnavba2b12.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.votacionDelegadoEc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
